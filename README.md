@@ -42,7 +42,7 @@ The dataset used can be downloaded here - [Click to Download](https://drive.goog
 
 This dataset consists of __17113 images__ belonging to 27 classes:
 *	__Training Set: 12845 images__<br />
-<p align="center"><img src="https://github.com/beingaryan/Sign-To-Speech-Conversion/blob/master/Analysis/train_data_distribution.png" ></br><b>Train Data Statistics</b></p>
+<p align="center"><img src="https://github.com/KalyanDatha/Sign-To-Speech-Conversion/blob/master/Analysis/train_data_distribution.png" ></br><b>Train Data Statistics</b></p>
 <!---<br />![](Analysis/train_data_distribution.png)<br />--->
 
 *	__Test Set: 4368 images__<br />
